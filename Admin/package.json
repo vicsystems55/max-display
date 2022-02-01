@@ -27,6 +27,7 @@
     "@fullcalendar/vue": "^5.5.0",
     "bootstrap": "^4.6.0",
     "bootstrap-vue": "^2.21.2",
+    "caniuse-lite": "^1.0.30001304",
     "chart.js": "^2.9.4",
     "core-js": "^3.8.3",
     "simplebar-vue": "^1.6.0",
@@ -75,7 +76,7 @@
     "rules": {},
     "parserOptions": {
       "parser": "babel-eslint",
-	  "no-mixed-spaces-and-tabs": "off"
+      "no-mixed-spaces-and-tabs": "off"
     }
   },
   "postcss": {
